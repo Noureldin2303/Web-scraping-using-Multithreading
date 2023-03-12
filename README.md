@@ -1,6 +1,6 @@
 # Web-scraping
 
-**To extract data using web scraping with python:**
+**To extract data using web scraping with python using multithreading:**
 
 1- Find the URL that you want to scrape
 
